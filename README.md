@@ -21,10 +21,10 @@ Flask: Web framework used for building the user interface and handling HTTP requ
 HTML/CSS: Markup and styling languages used for designing the web interface.
 JavaScript: Scripting language used for client-side interactions and enhancing the user interface.
 # Installation and Usage
-Clone the repository: git clone https://github.com/your-username/crop-recommendation-system.git
+Clone the repository: git clone https://jay-thakur-147.github.io/Crop-Recommendation-System/Crop-Recommendation-System-Using-Machine-Learning-main/
 Install the required dependencies: pip install -r requirements.txt
 Run the application: python app.py
-Access the application through the web browser at http://localhost:5000
+Access the application through the web browser at  
 # Future Enhancements
 Integration of real-time weather data to improve the accuracy of recommendations.
 Incorporation of crop market prices and profitability analysis to assist farmers in making economically viable decisions.
